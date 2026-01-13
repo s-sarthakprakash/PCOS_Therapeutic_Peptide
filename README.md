@@ -30,7 +30,7 @@ The engineered mutant demonstrates a significantly stronger binding affinity com
 *(Figure 1: Comparison of Binding Free Energy. The mutant trap shows a >2-fold increase in affinity.)*
 
 #### 2. Structural Validation
-The mutant peptide targets the leucine zipper domain of CHOP wjile preserving the structural integrity of the hydrophobic interface.
+The mutant peptide targets the leucine zipper domain of CHOP while preserving the structural integrity of the hydrophobic interface.
 
 ![Docking Complex](images/mutant_complex_HQ.png)
 *(Figure 2: PyMOL visualization of the Mutant Peptide [Blue] bound to DDIT3 [Gray]. Key mutations are highlighted in yellow.)*
