@@ -20,8 +20,9 @@ This project utilized a structural bioinformatics pipeline to design and validat
 * **Initial Scan:** Used **BioSig** to scan the mutational landscape.
     * *Observation:* Top automated candidates promised lower binding energy but were rejected due to significant steric clashes and internal strain observed during visual inspection.
 * **Rational Selection:** Prioritized structural stability over raw score by manually selecting mutations to optimize packing and electrostatics (Residue numbering corresponds to UniProt P17676):
-    * **T299M:** Threonine $\to$ Methionine mutation to enhance hydrophobic packing efficiency at the dimer interface.
-    * **V303N:** Valine $\to$ Asparagine mutation to replace non-specific hydrophobic contacts with precise polar interactions (Hydrogen Bonding).
+    * First mutation was done to enhance hydrophobic packing efficiency at the dimer interface.
+    * While the second mutation was done to replace non-specific hydrophobic contacts with precise polar interactions (Hydrogen Bonding).
+    *  **Specific mutation coordinates are withheld pending manuscript submission and will be made available upon publication.**
 
 #### 3. Molecular Docking
 * Performed protein-peptide docking and MM/GBSA binding free energy calculation using **HawkDock**.
